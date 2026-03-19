@@ -9,7 +9,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 # IP ASSIGNMENT:
 
-<img width="1022" height="493" alt="image" src="https://github.com/user-attachments/assets/02773817-5880-4708-8021-190bc1212d14" />
+<img width="1022" height="493" alt="image" src="https://github.com/user-attachments/assets/02773817-5880-4708-8021-190bc1212d14" /> 
 
 
 # NETWORK DIAGRAM:
